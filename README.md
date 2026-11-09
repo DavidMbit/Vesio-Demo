@@ -128,5 +128,3 @@ Some features may still be under development, and availability may depend on the
 The source code is maintained in private repositories while development continues.
 
 This repository documents the project's goals, technical architecture, implementation and future development plans.
-
-A public release may be considered in the future.
